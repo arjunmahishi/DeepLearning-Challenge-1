@@ -1,5 +1,4 @@
 from sklearn.isotonic import IsotonicRegression
-from sklearn.svm import SVR
 from matplotlib import pyplot as plt
 import random
 
